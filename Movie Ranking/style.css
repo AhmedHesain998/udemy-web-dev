@@ -1,0 +1,8 @@
+*{
+    background-color: AQUA;
+}
+
+body h1 {
+    border: 10px;
+    border-radius: 50%;
+}
